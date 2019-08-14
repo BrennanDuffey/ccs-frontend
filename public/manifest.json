@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "inCrisis",
+  "name": "inCrisis: Colorado Crisis Services",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,8 +8,8 @@
       "type": "image/x-icon"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#2A5E7E",
+  "background_color": "#38A6BC"
 }
